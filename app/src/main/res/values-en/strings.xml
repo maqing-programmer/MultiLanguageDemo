@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiLanguageDemo</string>
+    <string name="hello">Hello</string>
+    <string name="switch_language">switch_language</string>
+    <string name="follow_system">follow_system</string>
+    <string name="jump">jump</string>
+</resources>

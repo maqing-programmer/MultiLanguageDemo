@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiLanguageDemo</string>
+    <string name="hello">你好</string>
+    <string name="switch_language">切换语言</string>
+    <string name="follow_system">跟随系统</string>
+    <string name="jump">跳转</string>
+</resources>
